@@ -1,0 +1,9 @@
+E:\Dev\WorkShop\Talk.UnitTests\Talk.Domain\bin\Debug\netcoreapp3.1\Talk.Domain.deps.json
+E:\Dev\WorkShop\Talk.UnitTests\Talk.Domain\bin\Debug\netcoreapp3.1\Talk.Domain.dll
+E:\Dev\WorkShop\Talk.UnitTests\Talk.Domain\obj\Debug\netcoreapp3.1\Talk.Domain.csprojAssemblyReference.cache
+E:\Dev\WorkShop\Talk.UnitTests\Talk.Domain\obj\Debug\netcoreapp3.1\Talk.Domain.AssemblyInfoInputs.cache
+E:\Dev\WorkShop\Talk.UnitTests\Talk.Domain\obj\Debug\netcoreapp3.1\Talk.Domain.AssemblyInfo.cs
+E:\Dev\WorkShop\Talk.UnitTests\Talk.Domain\bin\Debug\netcoreapp3.1\Talk.Domain.pdb
+E:\Dev\WorkShop\Talk.UnitTests\Talk.Domain\obj\Debug\netcoreapp3.1\Talk.Domain.csproj.CoreCompileInputs.cache
+E:\Dev\WorkShop\Talk.UnitTests\Talk.Domain\obj\Debug\netcoreapp3.1\Talk.Domain.dll
+E:\Dev\WorkShop\Talk.UnitTests\Talk.Domain\obj\Debug\netcoreapp3.1\Talk.Domain.pdb
